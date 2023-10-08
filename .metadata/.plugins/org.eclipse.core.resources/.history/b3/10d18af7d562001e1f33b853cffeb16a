@@ -1,0 +1,16 @@
+package com.moniga.training;
+
+import java.util.Date;
+
+public class EmployeeMain {
+
+	@SuppressWarnings("deprecation")
+	public static void main(String[] args) {
+		Employee employee = new Employee();
+		employee.setName("Moniga");
+		employee.setEmployeeId(52);
+		employee.setDateOfJoining(new Date(2022,12,5));
+		System.out.println(employee);
+	}
+
+}
