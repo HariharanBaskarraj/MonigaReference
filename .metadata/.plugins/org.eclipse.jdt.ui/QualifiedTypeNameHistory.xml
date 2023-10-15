@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="com.moniga.training.Employee"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.moniga.arrayofobjects.Employee"/>
+    <fullyQualifiedTypeName name="com.moniga.abstraction.bank.AbstractBank"/>
 </qualifiedTypeNameHistroy>
