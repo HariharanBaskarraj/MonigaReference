@@ -1,4 +1,4 @@
-package com.moniga.dmd;
+package com.moniga.dmd.employee;
 
 public class Employee {
 	
