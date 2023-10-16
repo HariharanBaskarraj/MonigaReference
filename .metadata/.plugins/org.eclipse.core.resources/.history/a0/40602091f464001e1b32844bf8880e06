@@ -1,9 +1,0 @@
-package com.moniga.arrayofobjects;
-
-public class ArrayOfObjects extends Employee{
-
-	public static void main(String[] args) {
-		Employee[] employees = new Employee[4];
-	}
-
-}
