@@ -40,6 +40,7 @@ public class ArrayOfObjects extends Employee {
 			System.out.println(employee);
 		}
 		
+		// To prevent memory leak
 		scanner.close();
 	}
 
