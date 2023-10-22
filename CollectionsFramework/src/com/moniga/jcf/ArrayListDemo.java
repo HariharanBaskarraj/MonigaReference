@@ -17,6 +17,8 @@ public class ArrayListDemo {
 		list.add(5);
 		list.add(24.0);
 		list.add(new Date());
+		list.add(null);
+		list.add(null);
 		System.out.println(list);
 
 		// add(i,e)

@@ -17,5 +17,10 @@
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="com.moniga.jcf.comparable.Doctor"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.comparator.NameSort"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.comparator.RegisterNumberSort"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.comparator.SpecialitySort"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
 </qualifiedTypeNameHistroy>
