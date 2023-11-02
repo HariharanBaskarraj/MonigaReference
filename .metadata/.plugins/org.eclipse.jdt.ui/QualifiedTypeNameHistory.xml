@@ -14,13 +14,22 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.ListIterator"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="com.moniga.jcf.comparable.Doctor"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="com.moniga.jcf.comparator.NameSort"/>
     <fullyQualifiedTypeName name="com.moniga.jcf.comparator.RegisterNumberSort"/>
     <fullyQualifiedTypeName name="com.moniga.jcf.comparator.SpecialitySort"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.random.RandomGenerator.ArbitrarilyJumpableGenerator"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.book.TreeSetImpl"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.book.TitleSort"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.book.IsbnSort"/>
+    <fullyQualifiedTypeName name="com.moniga.jcf.book.AuthorSort"/>
 </qualifiedTypeNameHistroy>
