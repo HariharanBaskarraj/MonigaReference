@@ -15,9 +15,10 @@ public class RuntimeExceptionDemo {
 		int numberTwo = sc.nextInt();
 		sc.nextLine();
 
-//		normalDivision(numberOne, numberTwo);
+		normalDivision(numberOne, numberTwo);
+
 		tryDivision(numberOne, numberTwo);
-		
+
 		sc.close();
 
 	}
@@ -35,9 +36,8 @@ public class RuntimeExceptionDemo {
 		try { // error prone statements
 			int divisionResult = numberOne / numberTwo;
 			System.out.println(divisionResult);
-			
 
-System.out.println(Integer.parseInt("Moniga"));
+			System.out.println(Integer.parseInt("Moniga"));
 		} catch (ArithmeticException e) { // handling code
 			e.printStackTrace();
 			System.out.println(e.getMessage());
